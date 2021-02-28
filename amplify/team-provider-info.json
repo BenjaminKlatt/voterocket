@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-voterocket-dev-205708-authRole",
+      "UnauthRoleArn": "arn:aws:iam::382891903941:role/amplify-voterocket-dev-205708-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::382891903941:role/amplify-voterocket-dev-205708-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-voterocket-dev-205708-deployment",
+      "UnauthRoleName": "amplify-voterocket-dev-205708-unauthRole",
+      "StackName": "amplify-voterocket-dev-205708",
+      "StackId": "arn:aws:cloudformation:eu-west-1:382891903941:stack/amplify-voterocket-dev-205708/23a4db00-79ff-11eb-84c9-02d2dcfa6bf9",
+      "AmplifyAppId": "dro9498hq1ks2"
+    }
+  }
+}
